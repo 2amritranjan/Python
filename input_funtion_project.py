@@ -1,0 +1,1 @@
+print("Hey"+" "+ input("whta is your name? ")+","+" "+ "How are you? ")
