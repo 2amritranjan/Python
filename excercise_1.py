@@ -6,3 +6,4 @@ print("second_digit"+"= "+"number[1]")
 sum=int(first_digit)+int(second_digit)
 print("sum"+"=" +"int(first_digit) "+"+"+"int(second_digit)")
 print(sum)
+

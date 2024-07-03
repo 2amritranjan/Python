@@ -7,4 +7,6 @@ print("sum_of_square = " + str(sum_of_square))
 print("sum = " + str(sum))
 print("sum + sum_of_square ="+ str(x))
 print(" ")
+
+
 print("This was an assignment to take input of two different numbers then find the sum of that numbers then find the square of the numbers and then add the sum of numbera to its sum of squares. ")

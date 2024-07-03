@@ -20,6 +20,7 @@ elif bmi>=40:
 	print("You are respondsible for global warming my friend please commit suicide. ")
 print("Thankyou")
 
+
 	
 	
 

@@ -13,3 +13,4 @@ else:
 		print(f"It's a {computer} for computer, You won. ")
 	else:
 		print(f"It's {computer} for computer, You lost.")
+		

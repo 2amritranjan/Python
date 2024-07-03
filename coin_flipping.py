@@ -6,3 +6,4 @@ if c==0:
 	print("You got a heads. ")
 else:
 	print("It's a tails. ")
+	 

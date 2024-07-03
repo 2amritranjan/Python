@@ -6,3 +6,4 @@ print("String manipulation excersise")
 print('String concatenation is done with "+" sign.')
 print('e.g print("Hello" +"jenny")')
 print("New lines can be created with a backslash and n")
+

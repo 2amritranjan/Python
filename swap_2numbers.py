@@ -5,3 +5,4 @@ a=b
 b=X
 print("a" +"= "+a)
 print("b"+"= "+b)
+

@@ -10,3 +10,4 @@ smallest_num = min(int_num)
 print(" ")
 print(f"Largets number is:- {largest_num}")
 print(f"Smallest number is:- {smallest_num} ")
+

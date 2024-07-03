@@ -48,3 +48,4 @@ elif property in (" "):
 else:
 	print(" ")
 	print(f"We are sorry as our Outlet is opening soon in {property}, sorry for inconvenience. ")
+	

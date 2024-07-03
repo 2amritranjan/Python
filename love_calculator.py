@@ -28,3 +28,5 @@ elif game == 'N' or game == 'n' or game == 'NO' or game == 'No' or game == 'no':
 		print("Ok, please visit again. ")
 else:
 	print("Wrong input please try again. ")
+
+	
